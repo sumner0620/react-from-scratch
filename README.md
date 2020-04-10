@@ -6,6 +6,6 @@ This is just a simple React, Babel and Webpack starter configuration to get you 
 
 To use this just clone the repo, open your command line, and `yarn install` or `npm install` to add all the dependencies.
 
-## Yarn scripts
+## Yarn/NPM scripts
 
 There are two scripts set up for you already, `build` and `start`. Use the package manager of your choice to run either of them, i.e.: `yarn build`. `build` is obviously for a production build, while `start` is to run your development project.
